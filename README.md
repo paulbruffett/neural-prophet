@@ -1,2 +1,1 @@
-# neural-prophet
- 
+This contains notebooks that are accompanied by the [Medium article](https://paul-bruffett.medium.com/experimenting-with-neural-prophet-9cc9a0f4921)
